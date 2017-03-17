@@ -12,30 +12,30 @@ ultimately if you're looking for the least painful experience, it's best that yo
 There's a multitude of Linux distributions out there, all with varying pros and cons, but ultimately there's only a couple you should
 realistically be looking at if you're getting serious about a good Linux distribution. Here are a couple off the top of my head, in no particular order:
 * Arch Linux
-..* This is the distribution I enjoy running the most personally as it's very barebones, but installation can be a pain and/or dangerous if you don't RTFM.
-..* Uses the Pacman package system, which is somewhat different from other package managers but frankly very easy to use.
-..* Bleeding-edge builds, which means you're going to be updating your system and managing system files quite often on your own time.
+	* This is the distribution I enjoy running the most personally as it's very barebones, but installation can be a pain and/or dangerous if you don't RTFM.
+	* Uses the Pacman package system, which is somewhat different from other package managers but frankly very easy to use.
+	* Bleeding-edge builds, which means you're going to be updating your system and managing system files quite often on your own time.
 * Linux Mint
-..* Uses the apt package manager (synaptic package manager?) which is commonly claimed to be the easiest to use of them all. Take that for what you will.
+	* Uses the apt package manager (synaptic package manager?) which is commonly claimed to be the easiest to use of them all. Take that for what you will.
 * Ubuntu
-..* See above.
-..* Pretty easy to use and install as long as your reading comprehension is competent.
-..* Linux Mint and Ubuntu are almost identical besides the initial installation packages and their choice of desktop/windows managers.
+	* See above.
+	* Pretty easy to use and install as long as your reading comprehension is competent.
+	* Linux Mint and Ubuntu are almost identical besides the initial installation packages and their choice of desktop/windows managers.
 * Fedora
-..* Uses the RPM package system, which is quite different from the usual apt-get you'll see in most other distributions.
-..* Similar to Arch Linux in that it's very bleeding-edge and requires much more knowledge of the system to maintain.
-..* Actively maintained by Red Hat!
+	* Uses the RPM package system, which is quite different from the usual apt-get you'll see in most other distributions.
+	* Similar to Arch Linux in that it's very bleeding-edge and requires much more knowledge of the system to maintain.
+	* Actively maintained by Red Hat!
 * Debian
-..* One of the oldest distros, on which Linux Mint and Ubuntu are built on top of. Also uses the apt package manager.
-..* Super super stable distribution, you won't run into a lot of crashes here.
+	* One of the oldest distros, on which Linux Mint and Ubuntu are built on top of. Also uses the apt package manager.
+	* Super super stable distribution, you won't run into a lot of crashes here.
 * openSUSE
-..* A fairly stable system similar to Debian and it's children; not too sure what else it features since I've never even met someone who uses openSUSE.
+	* A fairly stable system similar to Debian and it's children; not too sure what else it features since I've never even met someone who uses openSUSE.
 * Kali Linux
-..* A penetration testing suite...?
+	* A penetration testing suite...?
 * Steam OS
-..* Actually just YetAnotherDebianDerivative. Also not exactly something you should run for development, but I suppose it is a Linux distribution.
+	* Actually just YetAnotherDebianDerivative. Also not exactly something you should run for development, but I suppose it is a Linux distribution.
 * Gentoo
-..* A very hardcore Linux enthusiast distribution, where everything is maintained by you, the user. I believe it comes in both Linux and BSD variants.
+	* A very hardcore Linux enthusiast distribution, where everything is maintained by you, the user. I believe it comes in both Linux and BSD variants.
 
 Of course, there's quite a lot of other, just as popular distributions, so take a look around to see what fits your needs. I'll always +1 Arch Linux =)
 
