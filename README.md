@@ -58,7 +58,17 @@ If you're all set up, go ahead and clone this repository!
 git clone https://github.com/chocolatemelt/oss-rundown.git
 ```
 
-I recommend having a folder specifically for Git projects (such as /home/whatever/git) but it's totally your call, and won't affect anything you do in this repository.
+If you're feeling particularly special, you can fork it and clone your own particular ```oss-rundown``` repository. Just remember to set the upstream if you ever
+decide to pull from this master branch:
+```
+git remote add upstream https://github.com/chocolatemelt/oss-rundown.git
+```
+In the future, you can then just run the following to pull from here:
+```
+git pull upstream master
+```
+
+Finally, I recommend having a folder specifically for Git projects (such as /home/whatever/git) but it's totally your call, and won't affect anything you do in this repository.
 Further packages and installations are explained in the individual project READMEs.
 
 # Contributors
