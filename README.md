@@ -8,6 +8,8 @@ I *highly* recommend setting up a *nix environment such as the various flavors o
 can set up Brew. On Windows, Cygwin and the new Windows 10 Ubuntu environment both work, although to varying degrees of success;
 ultimately if you're looking for the least painful experience, it's best that you start with Linux.
 
+**Cygwin has several known issues regarding installations and packages so its best to avoid it, if you really want Windows then the new Win10 is the best choice**
+
 ### Linux Distros
 There's a multitude of Linux distributions out there, all with varying pros and cons, but ultimately there's only a couple you should
 realistically be looking at if you're getting serious about a good Linux distribution. Here are a couple off the top of my head, in no particular order:
@@ -16,10 +18,13 @@ realistically be looking at if you're getting serious about a good Linux distrib
 	* Uses the Pacman package system, which is somewhat different from other package managers but frankly very easy to use.
 	* Bleeding-edge builds, which means you're going to be updating your system and managing system files quite often on your own time.
 * Linux Mint
-	* Uses the apt package manager (synaptic package manager?) which is commonly claimed to be the easiest to use of them all. Take that for what you will.
+	* Uses the apt package manager (synaptic package manager) which is commonly claimed to be the easiest to use of them all.
+	* Synaptic enables easier management of programs/packages and helps keep the system up to date through a similar interface to the programs panel in Microsoft Windows
+	* Sometimes may not be the most up to date on the newest verisons of software which can be a bother
+	* In addition theres a massive number of forums and sites dedicated to Mint and Ubuntu users online
 * Ubuntu
 	* See above.
-	* Pretty easy to use and install as long as your reading comprehension is competent.
+	* Pretty easy to use and install as long as your reading comprehension is competent. `:^)`
 	* Linux Mint and Ubuntu are almost identical besides the initial installation packages and their choice of desktop/windows managers.
 * Fedora
 	* Uses the RPM package system, which is quite different from the usual apt-get you'll see in most other distributions.
@@ -43,10 +48,10 @@ Of course, there's quite a lot of other, just as popular distributions, so take 
 The bare minimum you'll need to get started with this repository is Git, which is a distributed versioning control system by the original author of Linux.
 In short, you just need to install Git through your particular package manager. This is most likely one of the following:
 ```
-pacman -S git
-apt-get install git
-rpm -i(vh) git-xxx.rpm
-pact install git
+$ pacman -S git
+$ apt-get install git
+$ rpm -i(vh) git-xxx.rpm
+$ pact install git
 ```
 With ```sudo``` as necessary.
 
