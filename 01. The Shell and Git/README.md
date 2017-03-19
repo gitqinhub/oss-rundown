@@ -9,7 +9,7 @@ If you haven't already, go ahead and clone/fork this repository (check the root 
 ### Your first commits
 Get started by ```touch```ing a file (it can be anything) and ```mv```ing it into this project folder.
 Next, ```add``` the file to the Git stage, where you can then make sure everything is in order with ```status```.
-Finally, ```commit``` the file with a message of your choosing, and, if you forked your own copy of the repository, ```push```
+Finally, ```commit``` the file with a message (`-m`) of your choosing, and, if you forked your own copy of the repository, ```push```
 to update the master branch on Github's side.
 
 ### Fixing mistakes
@@ -37,5 +37,5 @@ commit.
 
 ### Further reading
 There's quite a lot of Git commands, so don't be shy and take a look at all of them. The flags you can provide can also prove to be
-quite useful, so don't hesitate to familiarize yourself with them. Finally, the documentation is always up-to-date, and StackOverflow
+quite useful, so don't hesitate to familiarize yourself with them (```man git```). Finally, the documentation is always up-to-date, and StackOverflow
 generally has answers to most common Git questions.
