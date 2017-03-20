@@ -18,13 +18,13 @@ realistically be looking at if you're getting serious about a good Linux distrib
 	* Uses the Pacman package system, which is somewhat different from other package managers but frankly very easy to use.
 	* Bleeding-edge builds, which means you're going to be updating your system and managing system files quite often on your own time.
 * Linux Mint
-	* Uses the apt package manager (synaptic package manager) which is commonly claimed to be the easiest to use of them all.
-	* Synaptic enables easier management of programs/packages and helps keep the system up to date through a similar interface to the programs panel in Microsoft Windows
-	* Sometimes may not be the most up to date on the newest verisons of software which can be a bother
-	* In addition theres a massive number of forums and sites dedicated to Mint and Ubuntu users online
+	* Uses the apt package manager (synaptic package manager), a fairly easy-to-use package manager with a GUI.
+	* apt enables easier management of programs/packages and helps keep the system up to date through a similar interface to the programs panel in Microsoft Windows, which may be appealing to you.
+	* Not always up-to-date, but very stable.
+	* Large userbase means lots of "solved" errors.
 * Ubuntu
 	* See above.
-	* Pretty easy to use and install as long as your reading comprehension is competent. `:^)`
+	* Pretty easy to use and install as long as your reading comprehension is competent.
 	* Linux Mint and Ubuntu are almost identical besides the initial installation packages and their choice of desktop/windows managers.
 * Fedora
 	* Uses the RPM package system, which is quite different from the usual apt-get you'll see in most other distributions.
