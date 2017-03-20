@@ -29,7 +29,7 @@ Note the `.` and `..` folders, which are your current and parent directory.
 
 ### Editing your dotfiles
 I can't possibly provide examples for every unix program under the sun, but you can look at them on a case-by-case basis; simply *read
-the documentation*. Especially larger programs such as the X server and Vim have very descriptive documentation for their dotfiles,
+the documentation*. Larger programs such as the X server and Vim almost always have very descriptive documentation for their dotfiles,
 if you're looking in the right places. Generally, you'll have to reload a program after editing its dotfile to see any changes. This can
 come in the form of restarting it or simply running a command that refreshes it's settings (such as most shells).
 
